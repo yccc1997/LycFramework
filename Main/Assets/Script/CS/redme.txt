@@ -1,0 +1,6 @@
+文件目录解释
+Config---配置
+GameController --- 游戏控制层
+GameData --- 游戏数据层
+GamePlay --- 游戏对象层
+UI --- UI层
