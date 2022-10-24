@@ -1,2 +1,5 @@
 *.meta
+.csproj
+.sln
 /Main/Library/
+/Main/Temp/
