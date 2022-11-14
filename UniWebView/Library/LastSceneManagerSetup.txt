@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Vuplex/WebView/Demos/Scenes/CanvasWebViewDemo.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
