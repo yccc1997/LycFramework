@@ -9,6 +9,7 @@ public class Text_yc : MonoBehaviour
 
     string url = "file:///D:/Data/Project/LYC/AssetBundlePackage/";
     public string name = "";
+    public AnimationClip c;
 
     private void Update()
     {
